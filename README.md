@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋 I'm Vanshaj garg:
 🔭 I’m currently working on AI-powered applications using Python, LangChain, and LLMs<br><br>👯 I’m looking to collaborate on Generative AI and Full-Stack AI projects<br><br>🤝 I’m looking for help with scalable backend systems and cloud deployment<br><br>🌱 I’m currently learning FastAPI, React, Docker, and advanced AI workflows<br><br>💬 Ask me about Python, Generative AI, RAG systems, LangChain, and Streamlit<br><br>⚡ Fun fact: I enjoy turning AI ideas into real-world projects and sharing them on GitHub
 
 
